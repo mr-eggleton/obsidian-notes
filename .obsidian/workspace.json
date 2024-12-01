@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CIISec Live 2024/Ideas.md",
+                "file": "Testing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ideas"
+              "title": "Testing"
             }
           }
         ],
@@ -205,11 +205,12 @@
   },
   "active": "c616d77958f46817",
   "lastOpenFiles": [
+    "CIISec Live 2024/Ideas.md",
+    "Testing.md",
     "CIISec Live 2024/Index.md",
     "CIISec Live 2024/Hygiene.md",
     "CIISec Live 2024/Supply Chain.md",
     "CIISec Live 2024/Sponsor's.md",
-    "CIISec Live 2024/Ideas.md",
     "CIISec Live 2024/Markdown Planning Techniques.pdf",
     "CIISec Live 2024/Exposing modern threats- are you at risk.md",
     "CIISec Live 2024/Cyber Insurance.md",
