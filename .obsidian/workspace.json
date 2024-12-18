@@ -192,10 +192,14 @@
             "id": "d9c489addb182505",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Clippings/CIISec Cyber Extended Project Qualification.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "CIISec Cyber Extended Project Qualification"
             }
           }
         ],
@@ -378,8 +382,10 @@
       "timelines-revamped:Insert Timeline Event (Frontmatter)": false
     }
   },
-  "active": "9e4e9649e1ad9c4a",
+  "active": "d9c489addb182505",
   "lastOpenFiles": [
+    "Clippings/Integrating Citations and References Obsidian vs. External Reference Managers (Zotero, etc.) - Knowledge management - Obsidian Forum.md",
+    "Clippings/CIISec Cyber Extended Project Qualification.md",
     "experiments/PEP-8 Styleguide.md",
     "UTC Sheffield Olympic Legacy Park - Horizontal.svg",
     "PEP-8 Styleguide/What does it include.md",
@@ -389,9 +395,7 @@
     "PEP-8 Styleguide/PEP-8 Compliant Code.md",
     "PEP-8 Styleguide",
     "PEP-8 Poster.canvas",
-    "Clippings/CIISec Cyber Extended Project Qualification.md",
     "Testing.md",
-    "Clippings/Integrating Citations and References Obsidian vs. External Reference Managers (Zotero, etc.) - Knowledge management - Obsidian Forum.md",
     "Research/What is CyberEPQ About.md",
     "Clippings",
     "Research/Research testing.md",
