@@ -1,0 +1,2 @@
+## What is PEP-8?
+PEP-8 is the official styleguide for Python-based applications. It covers how you should write python so that it is easy to read and understand, even for developers who are unexperienced with your codebase.
