@@ -1,0 +1,11 @@
+{
+  "currentStyle": "bibtex",
+  "defaultStyle": "other",
+  "includeDateAccessed": false,
+  "textFormat": "markdown",
+  "sortByAlphabetical": false,
+  "showGenerationText": true,
+  "showDefaultContext": true,
+  "showSelectContext": false,
+  "enableGenerationNotifications": false
+}

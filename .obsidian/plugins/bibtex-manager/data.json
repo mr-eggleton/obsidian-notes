@@ -1,0 +1,20 @@
+{
+  "cslStyle": "harvard-the-university-of-sheffield-town-and-regional-planning",
+  "templateArticle": "",
+  "templateBook": "",
+  "templateBooklet": "",
+  "templateConference": "",
+  "templateInbook": "",
+  "templateIncollection": "",
+  "templateInproceedings": "",
+  "templateManual": "",
+  "templateMastersthesis": "",
+  "templateMisc": "",
+  "templatePhdthesis": "",
+  "templateProceedings": "",
+  "templateTechreport": "",
+  "templateUnpublished": "",
+  "enableBibtexFormatting": false,
+  "customFolder": "Research",
+  "fileName": "{{id}}"
+}

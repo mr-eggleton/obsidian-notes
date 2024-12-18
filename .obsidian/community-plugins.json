@@ -4,5 +4,19 @@
   "obsidian-kroki",
   "editing-toolbar",
   "obsidian-vega",
-  "obsidian-graphviz"
+  "obsidian-graphviz",
+  "advanced-canvas",
+  "better-export-pdf",
+  "docxer",
+  "reference-map",
+  "code-emitter",
+  "file-include",
+  "obsidian-importer",
+  "smart-gantt",
+  "task-list-kanban",
+  "obsidian-tasks-plugin",
+  "templater-obsidian",
+  "timelines-revamped",
+  "reference-generator",
+  "bibtex-manager"
 ]

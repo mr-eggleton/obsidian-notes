@@ -27,12 +27,96 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CIISec CyberEPQ/Markdown Planning Techniques.md",
+                "file": "Research/Research testing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Markdown Planning Techniques"
+              "title": "Research testing"
+            }
+          },
+          {
+            "id": "58a0d589156e5711",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
+          },
+          {
+            "id": "cfccea354a837944",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Research/Untitled 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled 1"
+            }
+          },
+          {
+            "id": "e27034f757190e0c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Research/Nobody06.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Nobody06"
+            }
+          },
+          {
+            "id": "ffa890ced6fdf16a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Research/CitekeyNewArticle.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "CitekeyNewArticle"
+            }
+          },
+          {
+            "id": "af3711fa2014ee8b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Research/CitekeyNewArticle 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CitekeyNewArticle 2"
+            }
+          },
+          {
+            "id": "c59871cc09622ab7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Research/Templates/{{id}}.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "{{id}}"
             }
           },
           {
@@ -48,9 +132,40 @@
               "icon": "lucide-file",
               "title": "Ideas"
             }
+          },
+          {
+            "id": "b0142113697f1238",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 750,
+                  "y": 124.24137931034477,
+                  "zoom": -1.1973014403736177
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
+            }
+          },
+          {
+            "id": "998fa18bcaf0f4ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Research/Research testing.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Research testing"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -183,6 +298,16 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "4837ce314a066068",
+            "type": "leaf",
+            "state": {
+              "type": "reference-map-view",
+              "state": {},
+              "icon": "ReferenceMapIconScroll",
+              "title": "Reference Map"
+            }
           }
         ],
         "currentTab": 4
@@ -200,31 +325,49 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-kanban:Create new board": false
+      "obsidian-kanban:Create new board": false,
+      "reference-map:Reference Map": false,
+      "obsidian-importer:Open Importer": false,
+      "smart-gantt:Smart Gantt": false,
+      "templater-obsidian:Templater": false,
+      "timelines-revamped:Insert Timeline Event": false,
+      "timelines-revamped:Insert Timeline Event (Frontmatter)": false
     }
   },
-  "active": "c616d77958f46817",
+  "active": "4837ce314a066068",
   "lastOpenFiles": [
+    "Research/Templates/{{id}}.md",
+    "Research/CitekeyNewArticle 2.md",
+    "Research/Templates",
+    "Research/CitekeyNewArticle.md",
+    "Research/Nobody06.md",
+    "Research/Untitled 1.md",
+    "Research/Research testing.md",
+    "Untitled.canvas",
+    "Untitled.md",
+    "Research",
+    "CIISec CyberEPQ/Markdown Planning Techniques.md",
+    "CIISec Live 2024/Ideas.md",
+    "experiments/Blank Production Log 24-25 UTC OLP.md",
+    "experiments/Blank Production Log 24-25 UTC OLP.docx",
+    "experiments/Mermaid Diagrams.md",
+    "experiments/Attachments/Attachment.png",
+    "experiments/Attachments",
+    "Untitled Kanban.md",
     "CIISec Live 2024/Index.md",
     "CIISec Live 2024/Hygiene.md",
     "CIISec Live 2024/Supply Chain.md",
     "CIISec Live 2024/Sponsor's.md",
-    "CIISec Live 2024/Ideas.md",
     "CIISec Live 2024/Markdown Planning Techniques.pdf",
     "CIISec Live 2024/Exposing modern threats- are you at risk.md",
     "CIISec Live 2024/Cyber Insurance.md",
     "CIISec Live 2024/Critical National Infrastructure.md",
-    "CIISec CyberEPQ/Markdown Planning Techniques.md",
     "CIISec Live 2024",
     "CIISec CyberEPQ",
-    "experiments/Mermaid Diagrams.md",
     "README.pdf",
     "experiments/Kroki Diagrams not working.md",
     "experiments/Kroki Diagrams.md",
     "experiments",
-    "data/Unconfirmed 962541.crdownload",
-    "data/population.json",
-    "data",
-    "New folder"
+    "data/Unconfirmed 962541.crdownload"
   ]
 }
