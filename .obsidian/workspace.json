@@ -378,8 +378,17 @@
       "timelines-revamped:Insert Timeline Event (Frontmatter)": false
     }
   },
-  "active": "d9c489addb182505",
+  "active": "9e4e9649e1ad9c4a",
   "lastOpenFiles": [
+    "experiments/PEP-8 Styleguide.md",
+    "UTC Sheffield Olympic Legacy Park - Horizontal.svg",
+    "PEP-8 Styleguide/What does it include.md",
+    "PEP-8 Styleguide/UTC OLP Python Style Guide.md",
+    "PEP-8 Styleguide/PEP-8 Incompatible Code.md",
+    "PEP-8 Styleguide/PEP-8 Styleguide 1.md",
+    "PEP-8 Styleguide/PEP-8 Compliant Code.md",
+    "PEP-8 Styleguide",
+    "PEP-8 Poster.canvas",
     "Clippings/CIISec Cyber Extended Project Qualification.md",
     "Testing.md",
     "Clippings/Integrating Citations and References Obsidian vs. External Reference Managers (Zotero, etc.) - Knowledge management - Obsidian Forum.md",
@@ -408,14 +417,8 @@
     "CIISec Live 2024/Supply Chain.md",
     "CIISec Live 2024/Sponsor's.md",
     "CIISec Live 2024/Markdown Planning Techniques.pdf",
-    "CIISec Live 2024/Exposing modern threats- are you at risk.md",
-    "CIISec Live 2024/Cyber Insurance.md",
-    "CIISec Live 2024/Critical National Infrastructure.md",
     "CIISec Live 2024",
     "CIISec CyberEPQ",
-    "README.pdf",
-    "experiments/Kroki Diagrams not working.md",
-    "experiments/Kroki Diagrams.md",
-    "experiments"
+    "README.pdf"
   ]
 }
