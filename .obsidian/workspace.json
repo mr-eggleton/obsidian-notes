@@ -284,11 +284,13 @@
       "templater-obsidian:Templater": false,
       "timelines-revamped:Insert Timeline Event": false,
       "timelines-revamped:Insert Timeline Event (Frontmatter)": false,
-      "obsidian-projects:Open projects": false
+      "obsidian-projects:Open projects": false,
+      "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "9fbed442c170a3b8",
+  "active": "cd6224024b096d19",
   "lastOpenFiles": [
+    "Untitled",
     "Slideshow Test.canvas",
     "Research tooling ideas.md",
     "Testing.md",
