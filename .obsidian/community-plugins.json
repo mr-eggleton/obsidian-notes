@@ -1,6 +1,5 @@
 [
   "obsidian-git",
-  "obsidian-kanban",
   "obsidian-kroki",
   "editing-toolbar",
   "obsidian-vega",
@@ -12,12 +11,12 @@
   "code-emitter",
   "file-include",
   "obsidian-importer",
-  "task-list-kanban",
   "templater-obsidian",
   "timelines-revamped",
   "reference-generator",
   "bibtex-manager",
   "obsidian-projects",
   "smart-gantt",
-  "markwhen"
+  "markwhen",
+  "card-board"
 ]

@@ -8,7 +8,11 @@ description:
 tags:
   - clippings
 ---
-- ## ![](https://study.cyberepq.org.uk/pluginfile.php/2/course/section/2/csiic%20logo%20%282%29.png)
+- [ ] Read
+- [ ] Is reliable source
+- [ ] Summarized
+
+![](https://study.cyberepq.org.uk/pluginfile.php/2/course/section/2/csiic%20logo%20%282%29.png)
 
  ![](https://study.cyberepq.org.uk/pluginfile.php/2/course/section/2/chrome.png) ![](https://study.cyberepq.org.uk/pluginfile.php/2/course/section/2/safari.png)
 

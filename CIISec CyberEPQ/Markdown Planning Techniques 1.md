@@ -1,7 +1,7 @@
 ## Gantts from todo lists
 
 - [ ] from 10/10/2024 to 11/10/2024, Module 0 
-- [x] from 10/10/2024 to 11/10/2024, Module 1
+- [ ] from 10/10/2024 to 11/10/2024, Module 1
 
 
 ```gantt

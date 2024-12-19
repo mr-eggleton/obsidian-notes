@@ -1,87 +1,87 @@
 {
-  "nodes": [
-    {
-      "id": "d8c0dc2f8a3d8275",
-      "type": "group",
-      "sideRatio": 1.7777777777777777,
-      "isStartNode": true,
-      "styleAttributes": {},
-      "x": -580,
-      "y": -340,
-      "width": 1200,
-      "height": 675,
-      "label": "Start Slide"
-    },
-    {
-      "id": "99539b7b7690ab1e",
-      "type": "group",
-      "sideRatio": 1.7777777777777777,
-      "styleAttributes": {},
-      "x": 880,
-      "y": -600,
-      "width": 1200,
-      "height": 675,
-      "label": "New Slide"
-    },
-    {
-      "id": "9ac7b750a5e2c9df",
-      "type": "group",
-      "sideRatio": 1.7777777777777777,
-      "styleAttributes": {},
-      "x": 880,
-      "y": 360,
-      "width": 1200,
-      "height": 675,
-      "label": "New Slide"
-    },
-    {
-      "id": "9e202a1405220941",
-      "type": "file",
-      "file": "experiments/Kroki Diagrams.md",
-      "styleAttributes": {},
-      "x": -560,
-      "y": -320,
-      "width": 1200,
-      "height": 4563
-    },
-    {
-      "id": "c73a80afad7ff30b",
-      "type": "file",
-      "file": "experiments/Mermaid Diagrams.md",
-      "styleAttributes": {},
-      "x": 880,
-      "y": -600,
-      "width": 1200,
-      "height": 640
-    },
-    {
-      "id": "c685cff64a20d3e7",
-      "type": "file",
-      "file": "experiments/Mermaid Diagrams.md",
-      "styleAttributes": {},
-      "x": 880,
-      "y": 400,
-      "width": 1200,
-      "height": 675
-    }
-  ],
-  "edges": [
-    {
-      "id": "0f13257bf8a89e93",
-      "styleAttributes": {},
-      "fromNode": "d8c0dc2f8a3d8275",
-      "fromSide": "top",
-      "toNode": "99539b7b7690ab1e",
-      "toSide": "left"
-    },
-    {
-      "id": "7c2af0990efa23a5",
-      "styleAttributes": {},
-      "fromNode": "99539b7b7690ab1e",
-      "fromSide": "bottom",
-      "toNode": "9ac7b750a5e2c9df",
-      "toSide": "top"
-    }
-  ],
-  "metadata": {}
+	"nodes":[
+		{
+			"id":"d8c0dc2f8a3d8275",
+			"type":"group",
+			"sideRatio":1.7777777777777777,
+			"isStartNode":true,
+			"styleAttributes":{},
+			"x":-580,
+			"y":-340,
+			"width":1200,
+			"height":675,
+			"label":"Start Slide"
+		},
+		{
+			"id":"99539b7b7690ab1e",
+			"type":"group",
+			"sideRatio":1.7777777777777777,
+			"styleAttributes":{},
+			"x":880,
+			"y":-600,
+			"width":1200,
+			"height":675,
+			"label":"New Slide"
+		},
+		{
+			"id":"9ac7b750a5e2c9df",
+			"type":"group",
+			"sideRatio":1.7777777777777777,
+			"styleAttributes":{},
+			"x":880,
+			"y":360,
+			"width":1200,
+			"height":675,
+			"label":"New Slide"
+		},
+		{
+			"id":"9e202a1405220941",
+			"type":"file",
+			"file":"experiments/Kroki Diagrams.md",
+			"styleAttributes":{},
+			"x":-560,
+			"y":-320,
+			"width":1200,
+			"height":4563
+		},
+		{
+			"id":"c73a80afad7ff30b",
+			"type":"file",
+			"file":"experiments/Mermaid Diagrams.md",
+			"styleAttributes":{},
+			"x":880,
+			"y":-600,
+			"width":1200,
+			"height":640
+		},
+		{
+			"id":"c685cff64a20d3e7",
+			"type":"file",
+			"file":"experiments/Mermaid Diagrams.md",
+			"styleAttributes":{},
+			"x":880,
+			"y":400,
+			"width":1200,
+			"height":675
+		}
+	],
+	"edges":[
+		{
+			"id":"0f13257bf8a89e93",
+			"styleAttributes":{},
+			"fromNode":"d8c0dc2f8a3d8275",
+			"fromSide":"top",
+			"toNode":"99539b7b7690ab1e",
+			"toSide":"left"
+		},
+		{
+			"id":"7c2af0990efa23a5",
+			"styleAttributes":{},
+			"fromNode":"99539b7b7690ab1e",
+			"fromSide":"bottom",
+			"toNode":"9ac7b750a5e2c9df",
+			"toSide":"top"
+		}
+	],
+	"metadata":{}
 }
