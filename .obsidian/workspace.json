@@ -152,10 +152,81 @@
   "right": {
     "id": "bd60d53af2d59ec3",
     "type": "split",
-    "children": [],
+    "children": [
+      {
+        "id": "6b8145817bdca32c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0eacd4bf83ec328f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "ddcfd73f6bf4acec",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "77e2dd76f567d38e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "4c909d970bc420ec",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "78f3840bc5656b05",
+            "type": "leaf",
+            "state": {
+              "type": "reference-map-view",
+              "state": {},
+              "icon": "ReferenceMapIconScroll",
+              "title": "Reference Map"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
     "direction": "horizontal",
-    "width": 750.5,
-    "collapsed": true
+    "width": 750.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -166,7 +237,6 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-kanban:Create new board": false,
       "reference-map:Reference Map": false,
       "obsidian-importer:Open Importer": false,
       "smart-gantt:Smart Gantt": false,
@@ -174,8 +244,7 @@
       "timelines-revamped:Insert Timeline Event": false,
       "timelines-revamped:Insert Timeline Event (Frontmatter)": false,
       "obsidian-projects:Open projects": false,
-      "markwhen:Create new Markwhen file": false,
-      "card-board:CardBoard": false
+      "markwhen:Create new Markwhen file": false
     }
   },
   "active": "f9bca57a25fdea4c",

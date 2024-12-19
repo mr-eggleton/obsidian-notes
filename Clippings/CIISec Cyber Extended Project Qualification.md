@@ -8,8 +8,8 @@ description:
 tags:
   - clippings
 ---
-- [ ] Read
-- [ ] Is reliable source
+- [x] Read ✅ 2024-12-19
+- [x] Is reliable source ✅ 2024-12-19
 - [ ] Summarized
 
 ![](https://study.cyberepq.org.uk/pluginfile.php/2/course/section/2/csiic%20logo%20%282%29.png)
