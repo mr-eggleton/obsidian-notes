@@ -1,6 +1,210 @@
 {
   "version": 2,
-  "projects": [],
+  "projects": [
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "Projects - Demo Project",
+          "recursive": false
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {
+            "fieldConfig": {
+              "name": {
+                "width": 360
+              },
+              "path": {
+                "hide": true
+              }
+            }
+          },
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "name": "Table",
+          "id": "cc9f88fc-c7cd-43e0-b384-d515f3034e03",
+          "type": "table"
+        },
+        {
+          "config": {
+            "groupByField": "status",
+            "orderSyncField": "weight",
+            "columns": {
+              "Done": {
+                "records": [
+                  "Projects - Demo Project/The Best Notes You'll Ever Make.md",
+                  "Projects - Demo Project/Why You Should Be Taking More Notes.md",
+                  "Projects - Demo Project/The Easiest Way to Start Taking Notes.md"
+                ]
+              },
+              "Doing": {
+                "records": []
+              }
+            }
+          },
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "name": "Board",
+          "id": "43530c3f-1089-4669-8230-3b25a2842c4a",
+          "type": "board"
+        },
+        {
+          "config": {
+            "interval": "month",
+            "dateField": "due",
+            "checkField": "published"
+          },
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "name": "Calendar",
+          "id": "9601c643-5a05-462f-9dbf-60023ff187ab",
+          "type": "calendar"
+        },
+        {
+          "config": {
+            "coverField": "image"
+          },
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "name": "Gallery",
+          "id": "a2d9654e-a812-41c4-9c59-16347df65f51",
+          "type": "gallery"
+        }
+      ],
+      "name": "Demo project",
+      "id": "879030a9-6d8f-4f09-816c-bdd06f862b72",
+      "path": "Projects - Demo Project"
+    },
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "",
+          "recursive": true
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {
+            "fieldConfig": {
+              "name": {
+                "width": 394
+              }
+            }
+          },
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "62b48178-af0d-465d-a33a-32f3a252cf6c",
+          "name": "Table",
+          "type": "table"
+        },
+        {
+          "config": {},
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "76435ddd-1154-4a1c-8dde-84305855c8d6",
+          "name": "Board",
+          "type": "board"
+        },
+        {
+          "config": {},
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "1007da1a-33ea-4d21-861e-ad4c8d1de235",
+          "name": "Calendar",
+          "type": "calendar"
+        },
+        {
+          "config": {},
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "6ccf1c3d-80c0-4860-9b1e-49060fff0eda",
+          "name": "Gallery",
+          "type": "gallery"
+        }
+      ],
+      "id": "e305c960-ae72-467d-9811-416963829f67",
+      "name": "CyberEPQ"
+    }
+  ],
   "archives": [],
   "preferences": {
     "projectSizeLimit": 1000,
