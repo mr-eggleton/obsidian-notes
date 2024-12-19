@@ -91,17 +91,13 @@
             }
           },
           {
-            "id": "fb0dbeb593aad85a",
+            "id": "3ade0763409f089f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "type": "obsidian-projects",
+              "state": {},
+              "icon": "projects-icon",
+              "title": "Projects"
             }
           }
         ],
@@ -177,7 +173,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +182,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for conflict-files-obsidian-git"
+              "title": "Backlinks"
             }
           },
           {
@@ -196,12 +191,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from conflict-files-obsidian-git"
+              "title": "Outgoing links"
             }
           },
           {
@@ -222,11 +216,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "conflict-files-obsidian-git.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of conflict-files-obsidian-git"
+              "title": "Outline"
             }
           },
           {
@@ -244,7 +236,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 750.5
+    "width": 356.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -266,7 +258,7 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "fb0dbeb593aad85a",
+  "active": "3ade0763409f089f",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "Projects - Demo Project/Why You Should Be Taking More Notes.md",
