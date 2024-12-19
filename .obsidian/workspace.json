@@ -58,12 +58,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/YakikimObsidian-11ty Collection of code from 11ty projects code that can be used for publishing Obsidian.md",
+                "file": "Research tool idea.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "YakikimObsidian-11ty Collection of code from 11ty projects code that can be used for publishing Obsidian"
+              "title": "Research tool idea"
             }
           }
         ],
@@ -248,8 +248,10 @@
   },
   "active": "776e07f55718a597",
   "lastOpenFiles": [
-    "Research tool idea.md",
+    "Testing.md",
+    "Clippings/Integrating Citations and References Obsidian vs. External Reference Managers (Zotero, etc.) - Knowledge management - Obsidian Forum.md",
     "Clippings/YakikimObsidian-11ty Collection of code from 11ty projects code that can be used for publishing Obsidian.md",
+    "Research tool idea.md",
     "Slideshow Test.canvas",
     "CIISec Live 2024/Ideas.md",
     "Clippings/CIISec Cyber Extended Project Qualification.md",
@@ -258,7 +260,6 @@
     "Research/CitekeyNewArticle.md",
     "Research/Nobody06.md",
     "Research/Research testing.md",
-    "Clippings/Integrating Citations and References Obsidian vs. External Reference Managers (Zotero, etc.) - Knowledge management - Obsidian Forum.md",
     "experiments/PEP-8 Styleguide.md",
     "UTC Sheffield Olympic Legacy Park - Horizontal.svg",
     "PEP-8 Styleguide/What does it include.md",
@@ -268,7 +269,6 @@
     "PEP-8 Styleguide/PEP-8 Compliant Code.md",
     "PEP-8 Styleguide",
     "PEP-8 Poster.canvas",
-    "Testing.md",
     "Research/What is CyberEPQ About.md",
     "Clippings",
     "conflict-files-obsidian-git.md",
