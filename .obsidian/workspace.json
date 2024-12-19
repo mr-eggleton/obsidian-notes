@@ -58,12 +58,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Research tool idea.md",
+                "file": "Research tooling ideas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Research tool idea"
+              "title": "Research tooling ideas"
             }
           }
         ],
@@ -251,7 +251,7 @@
     "Testing.md",
     "Clippings/Integrating Citations and References Obsidian vs. External Reference Managers (Zotero, etc.) - Knowledge management - Obsidian Forum.md",
     "Clippings/YakikimObsidian-11ty Collection of code from 11ty projects code that can be used for publishing Obsidian.md",
-    "Research tool idea.md",
+    "Research tooling ideas.md",
     "Slideshow Test.canvas",
     "CIISec Live 2024/Ideas.md",
     "Clippings/CIISec Cyber Extended Project Qualification.md",
