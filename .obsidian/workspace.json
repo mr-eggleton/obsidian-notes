@@ -125,26 +125,10 @@
   "right": {
     "id": "bd60d53af2d59ec3",
     "type": "split",
-    "children": [
-      {
-        "id": "35d3d4b5ac7b7aff",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "d51c72d594ae2492",
-            "type": "leaf",
-            "state": {
-              "type": "smart-gantt",
-              "state": {},
-              "icon": "egg",
-              "title": "Smart Gantt"
-            }
-          }
-        ]
-      }
-    ],
+    "children": [],
     "direction": "horizontal",
-    "width": 750.5
+    "width": 750.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {

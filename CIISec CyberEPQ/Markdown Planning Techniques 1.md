@@ -1,21 +1,12 @@
 ## Gantts from todo lists
 
-- [ ] Module 0, from 04/09/2024  to 10/09/2024
-- [ ] 6 days, Module 1
+- [ ] from 10/10/2024 to 11/10/2024, Module 0 
+- [x] from 10/10/2024 to 11/10/2024, Module 1
 
 
- ```gantt
-{
-	"doneShowQ": true,
-	"todoShowQ": true,
-	"pathListFilter": [
-		"CurrentFile"
-	],
-	"viewMode": "Week",
-	"leftBarChartDisplayQ": true
-}
- ```
+```gantt
 
+```
  
 
 ```mermaid
