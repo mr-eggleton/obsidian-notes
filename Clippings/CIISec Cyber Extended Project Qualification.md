@@ -8,9 +8,9 @@ description:
 tags:
   - clippings
 ---
-- [x] Read ✅ 2024-12-19
-- [x] Is reliable source ✅ 2024-12-19
-- [ ] Summarized
+- [x] CIISec Cyber Extended Project Qualification : Read ✅ 2024-12-19
+- [x] CIISec Cyber Extended Project Qualification : Is reliable source ✅ 2024-12-19
+- [ ] CIISec Cyber Extended Project Qualification : Summarise
 
 ![](https://study.cyberepq.org.uk/pluginfile.php/2/course/section/2/csiic%20logo%20%282%29.png)
 
