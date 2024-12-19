@@ -14,3 +14,5 @@ Or offer a convert to citation (Like the Reference Generator   [[https://github.
 Also add a template in the settings for  "Bibtex Manager Extension" which follows the same pattern as Clipper which would allow us to add academic references to journals and books.
 
 
+### Obsidian Book Search Plugin
+[[[anpigon/obsidian-book-search-plugin: Obsidian plugin that automatically creates notes by searching for books](https://github.com/anpigon/obsidian-book-search-plugin)]] 

@@ -1,7 +1,6 @@
----
-status: Done
+---status: Done
 due: 2024-12-19
-published: false
+published: true
 weight: 1
 tags:
   - note-taking

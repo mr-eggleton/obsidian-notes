@@ -56,7 +56,9 @@
               "Doing": {
                 "records": []
               }
-            }
+            },
+            "checkField": "published",
+            "includeFields": []
           },
           "filter": {
             "conjunction": "and",
@@ -203,6 +205,41 @@
       ],
       "id": "e305c960-ae72-467d-9811-416963829f67",
       "name": "CyberEPQ"
+    },
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "tag",
+        "config": {
+          "tag": "#project",
+          "hierarchy": false
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {},
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "4cb8cc8f-6322-4304-9f23-97e4a53e4058",
+          "name": "Table",
+          "type": "table"
+        }
+      ],
+      "id": "bc524c00-4d3c-4165-be49-8db30b822d37",
+      "name": "Project Test"
     }
   ],
   "archives": [],
