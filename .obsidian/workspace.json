@@ -81,27 +81,27 @@
             }
           },
           {
-            "id": "f9bca57a25fdea4c",
-            "type": "leaf",
-            "state": {
-              "type": "card-board-view",
-              "state": {},
-              "icon": "card-board",
-              "title": "CardBoard"
-            }
-          },
-          {
-            "id": "c45786033d231a94",
+            "id": "7e7f9663f816b7ab",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/CIISec Cyber Extended Project Qualification.md",
+                "file": "Testing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CIISec Cyber Extended Project Qualification"
+              "title": "Testing"
+            }
+          },
+          {
+            "id": "6b0c0da6b405dfbc",
+            "type": "leaf",
+            "state": {
+              "type": "obsidian-projects",
+              "state": {},
+              "icon": "projects-icon",
+              "title": "Projects"
             }
           }
         ],
@@ -166,73 +166,10 @@
   "right": {
     "id": "bd60d53af2d59ec3",
     "type": "split",
-    "children": [
-      {
-        "id": "6b8145817bdca32c",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "0eacd4bf83ec328f",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks"
-            }
-          },
-          {
-            "id": "ddcfd73f6bf4acec",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links"
-            }
-          },
-          {
-            "id": "77e2dd76f567d38e",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
-            }
-          },
-          {
-            "id": "4c909d970bc420ec",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Clippings/CIISec Cyber Extended Project Qualification.md"
-              },
-              "icon": "lucide-list",
-              "title": "Outline of CIISec Cyber Extended Project Qualification"
-            }
-          }
-        ],
-        "currentTab": 3
-      }
-    ],
+    "children": [],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -254,12 +191,22 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "c45786033d231a94",
+  "active": "6b0c0da6b405dfbc",
   "lastOpenFiles": [
+    "Projects - Demo Project/5 Mistakes I Made When I Started Using Obsidian.md",
+    "Projects - Demo Project/What I Learned From Taking 15,000 Notes.md",
+    "Projects - Demo Project/Why You Should Be Taking More Notes.md",
+    "Projects - Demo Project/The Easiest Way to Start Taking Notes.md",
+    "Projects - Demo Project/The Best Notes You'll Ever Make.md",
+    "Projects - Demo Project",
+    "Testing.md",
+    "Research/CitekeyNewArticle.md",
+    "Research/CitekeyNewArticle 2.md",
+    "experiments/Blank Production Log 24-25 UTC OLP.md",
+    "Clippings/CIISec Cyber Extended Project Qualification.md",
     "Clippings/Integrating Citations and References Obsidian vs. External Reference Managers (Zotero, etc.) - Knowledge management - Obsidian Forum.md",
     "Clippings/YakikimObsidian-11ty Collection of code from 11ty projects code that can be used for publishing Obsidian.md",
     "Slideshow Test.canvas",
-    "Testing.md",
     "UTC Sheffield Olympic Legacy Park - Horizontal.svg",
     "Untitled Kanban.md",
     "Research tooling ideas.md",
@@ -271,7 +218,6 @@
     "CIISec CyberEPQ/Markdown Planning Techniques.md",
     "Research/Research testing.md",
     "CIISec Live 2024/Ideas.md",
-    "Research/CitekeyNewArticle.md",
     "experiments/Kroki Diagrams.md",
     "conflict-files-obsidian-git.md",
     "experiments/PEP-8 Styleguide.md",
@@ -280,21 +226,13 @@
     "PEP-8 Styleguide/UTC OLP Python Style Guide.md",
     "PEP-8 Styleguide/PEP-8 Styleguide 1.md",
     "PEP-8 Styleguide/PEP-8 Compliant Code.md",
-    "PEP-8 Styleguide/PEP-8 Incompatible Code.md",
     "PEP-8 Styleguide",
-    "Clippings/CIISec Cyber Extended Project Qualification.md",
     "Clippings",
-    "Research/Untitled 1.md",
-    "Research/Templates/{{id}}.md",
-    "Research/CitekeyNewArticle 2.md",
     "Research/Templates",
-    "Research/Nobody06.md",
     "Untitled.canvas",
-    "Untitled.md",
     "Research",
     "experiments/Blank Production Log 24-25 UTC OLP.docx",
     "experiments/Attachments/Attachment.png",
-    "experiments/Attachments",
-    "CIISec Live 2024/Markdown Planning Techniques.pdf"
+    "experiments/Attachments"
   ]
 }
