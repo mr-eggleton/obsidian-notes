@@ -5,7 +5,15 @@
 
 
 ```gantt
-
+{
+	"doneShowQ": true,
+	"todoShowQ": true,
+	"pathListFilter": [
+		"CurrentFile"
+	],
+	"viewMode": "Week",
+	"leftBarChartDisplayQ": true
+}
 ```
  
 
