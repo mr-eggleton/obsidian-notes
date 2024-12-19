@@ -27,54 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Research/Research testing.md",
+                "file": "CIISec CyberEPQ/Markdown Planning Techniques.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Research testing"
-            }
-          },
-          {
-            "id": "b0142113697f1238",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "998fa18bcaf0f4ac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Research/Research testing.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Research testing"
-            }
-          },
-          {
-            "id": "94cd8f815d7607e2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "experiments/Kroki Diagrams.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Kroki Diagrams"
+              "title": "Markdown Planning Techniques"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -126,8 +88,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -156,10 +117,11 @@
       "smart-gantt:Smart Gantt": false,
       "templater-obsidian:Templater": false,
       "timelines-revamped:Insert Timeline Event": false,
-      "timelines-revamped:Insert Timeline Event (Frontmatter)": false
+      "timelines-revamped:Insert Timeline Event (Frontmatter)": false,
+      "obsidian-projects:Open projects": false
     }
   },
-  "active": "998fa18bcaf0f4ac",
+  "active": "35b7bba10b140218",
   "lastOpenFiles": [
     "Research/Research testing.md",
     "CIISec Live 2024/Ideas.md",
