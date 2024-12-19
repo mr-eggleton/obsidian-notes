@@ -152,10 +152,85 @@
   "right": {
     "id": "bd60d53af2d59ec3",
     "type": "split",
-    "children": [],
+    "children": [
+      {
+        "id": "d0159a70962a2701",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c716f7e1904ea0d0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Slideshow Test.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Slideshow Test"
+            }
+          },
+          {
+            "id": "42356eb9c46c2383",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Slideshow Test.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Slideshow Test"
+            }
+          },
+          {
+            "id": "0270d40814d1b9d0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "e21f419f844709b9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Slideshow Test.canvas"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Slideshow Test"
+            }
+          },
+          {
+            "id": "0bd301aa032503f7",
+            "type": "leaf",
+            "state": {
+              "type": "reference-map-view",
+              "state": {},
+              "icon": "ReferenceMapIconScroll",
+              "title": "Reference Map"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
     "direction": "horizontal",
-    "width": 750.5,
-    "collapsed": true
+    "width": 750.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -166,7 +241,6 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-kanban:Create new board": false,
       "reference-map:Reference Map": false,
       "obsidian-importer:Open Importer": false,
       "smart-gantt:Smart Gantt": false,
@@ -174,8 +248,7 @@
       "timelines-revamped:Insert Timeline Event": false,
       "timelines-revamped:Insert Timeline Event (Frontmatter)": false,
       "obsidian-projects:Open projects": false,
-      "markwhen:Create new Markwhen file": false,
-      "card-board:CardBoard": false
+      "markwhen:Create new Markwhen file": false
     }
   },
   "active": "f9bca57a25fdea4c",
