@@ -138,12 +138,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "experiments/Mermaid Diagrams.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Mermaid Diagrams"
             }
           }
         ],
@@ -329,14 +329,19 @@
   },
   "active": "78454fedf13acd87",
   "lastOpenFiles": [
-    "Projects - Demo Project/5 Mistakes I Made When I Started Using Obsidian.md",
+    "Research/Research testing.md",
+    "Research/What is CyberEPQ About.md",
+    "Research/Nobody06.md",
+    "Research/CitekeyNewArticle 2.md",
+    "Research/CitekeyNewArticle.md",
+    "Slideshow Test.canvas",
     "Untitled.md",
+    "Projects - Demo Project/5 Mistakes I Made When I Started Using Obsidian.md",
     "PEP-8 Styleguide/PEP-8 Compliant Code.md",
     "PEP-8 Styleguide/PEP-8 Styleguide 1.md",
     "Project Test",
     "Research tooling ideas.md",
     "Untitled",
-    "Slideshow Test.canvas",
     "Testing.md",
     "Projects - Demo Project/The Best Notes You'll Ever Make.md",
     "conflict-files-obsidian-git.md",
@@ -352,19 +357,14 @@
     "Markwhen/test.mw",
     "Markwhen",
     "CIISec CyberEPQ/Markdown Planning Techniques.md",
-    "Research/Research testing.md",
     "CIISec Live 2024/Ideas.md",
-    "Research/CitekeyNewArticle.md",
     "experiments/Kroki Diagrams.md",
     "experiments/PEP-8 Styleguide.md",
-    "Research/What is CyberEPQ About.md",
     "PEP-8 Styleguide/What does it include.md",
     "PEP-8 Styleguide/UTC OLP Python Style Guide.md",
     "PEP-8 Styleguide/PEP-8 Incompatible Code.md",
     "PEP-8 Styleguide",
     "Clippings/YakikimObsidian-11ty Collection of code from 11ty projects code that can be used for publishing Obsidian.md",
-    "Clippings/Integrating Citations and References Obsidian vs. External Reference Managers (Zotero, etc.) - Knowledge management - Obsidian Forum.md",
-    "Clippings/CIISec Cyber Extended Project Qualification.md",
     "Clippings",
     "Research/Templates",
     "Untitled.canvas",
