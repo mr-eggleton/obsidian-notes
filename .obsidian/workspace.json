@@ -145,9 +145,21 @@
               "icon": "lucide-file",
               "title": "Mermaid Diagrams"
             }
+          },
+          {
+            "id": "1ed55cc9286250d1",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.4"
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -166,7 +178,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -327,7 +340,7 @@
       "smart-gantt:Smart Gantt": false
     }
   },
-  "active": "78454fedf13acd87",
+  "active": "1ed55cc9286250d1",
   "lastOpenFiles": [
     "Research/Research testing.md",
     "Research/What is CyberEPQ About.md",
