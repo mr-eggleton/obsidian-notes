@@ -12,7 +12,7 @@ for( var i = 0 ; i <= slices ;  i++)
 	let colourID = Math.round(Math.floor(gray * colorCount)/colorCount)
 	let colour = colours[colourID]
 	let factor = (1.0+((variation/2.0)*((colorCount*gray)-0.5))) ;
-	console.log("i", i, gray, colourID,colour, factor, factor * colour)
+	console.log("i", i, "gray", gray.toFixed(3), "colourID", colourID, "colour", colour, "factor", factor.toFixed(3), "factor * colour", (factor * colour).toFixed(3))
 	//grays.push(gray)
 }
 
