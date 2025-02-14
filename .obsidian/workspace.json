@@ -41,129 +41,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CIISec CyberEPQ/Markdown Planning Techniques 1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Markdown Planning Techniques 1"
-            }
-          },
-          {
-            "id": "2c6afae2b0af4086",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Slideshow Test.canvas",
-                "viewState": {
-                  "x": 750,
-                  "y": 1821.5,
-                  "zoom": -2.4692957275815175
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Slideshow Test"
-            }
-          },
-          {
-            "id": "72deb29e8b2ac0ed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Clippings/CIISec Cyber Extended Project Qualification.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "CIISec Cyber Extended Project Qualification"
-            }
-          },
-          {
-            "id": "f9bca57a25fdea4c",
-            "type": "leaf",
-            "state": {
-              "type": "card-board-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "3ade0763409f089f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects - Demo Project/The Best Notes You'll Ever Make.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "The Best Notes You'll Ever Make"
-            }
-          },
-          {
-            "id": "9fbed442c170a3b8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Research tooling ideas.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Research tooling ideas"
-            }
-          },
-          {
-            "id": "3b24c9eebc9259df",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects - Demo Project/5 Mistakes I Made When I Started Using Obsidian.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "5 Mistakes I Made When I Started Using Obsidian"
-            }
-          },
-          {
-            "id": "78454fedf13acd87",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "experiments/Mermaid Diagrams.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Mermaid Diagrams"
-            }
-          },
-          {
-            "id": "1ed55cc9286250d1",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.4"
-            }
-          },
-          {
-            "id": "fdf6f9b2f717996a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "javascript stuff.md",
                 "mode": "source",
                 "source": false
@@ -173,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -354,24 +231,28 @@
       "smart-gantt:Smart Gantt": false
     }
   },
-  "active": "fdf6f9b2f717996a",
+  "active": "889d3289c5a2dfa2",
   "lastOpenFiles": [
+    "PEP-8 Poster.canvas",
+    "Research tooling ideas.md",
+    "Slideshow Test.canvas",
+    "Testing.md",
+    "Untitled.md",
+    "CIISec CyberEPQ/Markdown Planning Techniques 1.md",
+    "Clippings/CIISec Cyber Extended Project Qualification.md",
+    "Projects - Demo Project/The Best Notes You'll Ever Make.md",
+    "experiments/Mermaid Diagrams.md",
     "javascript stuff.md",
     "Research/Research testing.md",
     "Research/What is CyberEPQ About.md",
     "Research/Nobody06.md",
     "Research/CitekeyNewArticle 2.md",
     "Research/CitekeyNewArticle.md",
-    "Slideshow Test.canvas",
-    "Untitled.md",
     "Projects - Demo Project/5 Mistakes I Made When I Started Using Obsidian.md",
     "PEP-8 Styleguide/PEP-8 Compliant Code.md",
     "PEP-8 Styleguide/PEP-8 Styleguide 1.md",
     "Project Test",
-    "Research tooling ideas.md",
     "Untitled",
-    "Testing.md",
-    "Projects - Demo Project/The Best Notes You'll Ever Make.md",
     "conflict-files-obsidian-git.md",
     "Projects - Demo Project/Why You Should Be Taking More Notes.md",
     "Projects - Demo Project/What I Learned From Taking 15,000 Notes.md",
@@ -379,8 +260,6 @@
     "Projects - Demo Project",
     "UTC Sheffield Olympic Legacy Park - Horizontal.svg",
     "Untitled Kanban.md",
-    "PEP-8 Poster.canvas",
-    "CIISec CyberEPQ/Markdown Planning Techniques 1.md",
     "Markwhen/Markwhen 12-19-2024 11.25.08.mw",
     "Markwhen/test.mw",
     "Markwhen",
@@ -388,9 +267,6 @@
     "CIISec Live 2024/Ideas.md",
     "experiments/Kroki Diagrams.md",
     "experiments/PEP-8 Styleguide.md",
-    "PEP-8 Styleguide/What does it include.md",
-    "PEP-8 Styleguide/UTC OLP Python Style Guide.md",
-    "PEP-8 Styleguide/PEP-8 Incompatible Code.md",
     "PEP-8 Styleguide",
     "Clippings",
     "Research/Templates",
