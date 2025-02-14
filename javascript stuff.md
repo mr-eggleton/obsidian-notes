@@ -9,9 +9,10 @@ let colorCount = colours.length
 for( var i = 0 ; i <= slices ;  i++)
 {
 	let gray = i / slices // Math.sin((i*Math.PI)/(slices*2))
-	let colour = colours[Math.round(Math.floor(gray * colorCount)/colorCount)]
+	let colourID = Math.round(Math.floor(gray * colorCount)/colorCount)
+	let colour = colours[colourID]
 	let factor = (1.0+((variation/2.0)*((colorCount*gray)-0.5))) ;
-	console.log("i", i, gray, colour, factor, factor * colour)
+	console.log("i", i, gray, colourID,colour, factor, factor * colour)
 	//grays.push(gray)
 }
 
