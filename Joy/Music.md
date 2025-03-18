@@ -8,7 +8,13 @@ mindmap
 		Control
 			Limitiations
 				Times
-				Localation / )
+				Localations
+				Events
+			Selection
+				Voting
+				Generic huge playlists
+				Specific for different times
+				radio
 		Licences
 			PRS
 			Public Domain
