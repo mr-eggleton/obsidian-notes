@@ -16,9 +16,16 @@ mindmap
 				Specific for different times
 				radio
 		Licences
-			PRS
+			PRS / PPL in schools handled by  CEFM https://cefm.co.uk/licensing/pplschools/frequently-asked-questions/
 			Public Domain
 			Creative Commons
 			Algorithmic
 
 ```
+
+
+
+PRS / PPL in schools handled by  CEFM https://cefm.co.uk/licensing/pplschools/frequently-asked-questions/
+
+We have PPL & PRS Public performance licences.
+
