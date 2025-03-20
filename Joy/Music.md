@@ -3,24 +3,31 @@
 mindmap
 	Music
 		Purpose
+			Joy
+		SEND 
+			Is it OK
 		Areas / Devices
 			Xibo
 				Can do .wav files CC file libraries can be got in .wav
 		Control
-			Limitiations
-				Times
-				Locations
-				Events
-			Selection
-				Voting
-				Generic huge playlists
-				Specific for different times
-				radio
-		Licences
+		Limitiations
+			Times
+			Locations
+			Events
+		Selection
+			Grief free genres:
+				Light classic
+			Voting?
+			Generic huge playlists
+			Specific for different times
+			Radio
+		Licences - Not an issue
+			Copyright licences for state schools in England - GOV.UK
 			PRS / PPL in schools handled by  CEFM https://cefm.co.uk/licensing/pplschools/frequently-asked-questions/
-			Public Domain
-			Creative Commons
-			Algorithmic
+			Others Possible
+				Public Domain
+				Creative Commons
+				Algorithmic
 
 ```
 

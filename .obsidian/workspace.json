@@ -76,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -269,10 +269,10 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "f44ec2ea6c79b5d1",
+  "active": "5af2418a367fad92",
   "lastOpenFiles": [
-    "Untitled 1.md",
     "Joy/Music.md",
+    "Untitled 1.md",
     "Joy",
     "PEP-8 Poster.canvas",
     "Research tooling ideas.md",
