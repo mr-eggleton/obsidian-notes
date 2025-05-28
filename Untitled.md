@@ -53,6 +53,10 @@ mindmap
 			
 		Displays
 			Exam Timer
+				Clock
+				Editing
+				Menu
+				Keyboard input
 			Table
 			Boosters
 			Index
@@ -62,12 +66,18 @@ mindmap
 			Staff
 ```
 
+# Design
+# Conceptual ERD
 
 ```mermaid
 erDiagram
+		EXAMFILE ||--o{ EXAM : contains
+        EXAMFILE ||--o{ SEASON : contains
         SCHOOL ||--o{ SEASON : have
         SEASON ||--o{ EXAM : contains
-        EXAM }|--o{ ROOM : uses
+        EXAM ||--o{ ROOM : uses
         EXAM }|--o{ TIME : at
-		SR
+        SCHOOL ||--o{ SCREEN : have
+		SCREEN ||--o{ ROOM : uses
+        SCREEN ||--o{ TIME : at
 ```
