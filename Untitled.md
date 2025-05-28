@@ -43,20 +43,31 @@ mindmap
 		Processing
 			Normalise
 				Exam Codes
+					splitExamCodes
+					createRange
 				Sessions to am/pm
-			groupOnDuration
+			getGroups
+				groupOnDuration
 			getOCRUnit
 			getShortRoom			
 			
-		Research
-			On effectiveness<br/>and features
-			On Automatic creation
-				Uses
-					Creative techniques
-					Strategic planning
-					Argument mapping
-		Tools
-		Pen and paper
-		Mermaid
+		Displays
+			Exam Timer
+			Table
+			Boosters
+			Index
+			Today
+			Calendar
+			No Exams
+			Staff
+```
 
+
+```mermaid
+erDiagram
+        SCHOOL ||--o{ SEASON : have
+        SEASON ||--o{ EXAM : contains
+        EXAM }|--o{ ROOM : uses
+        EXAM }|--o{ TIME : at
+		SR
 ```

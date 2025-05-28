@@ -43,7 +43,7 @@
               "state": {
                 "file": "Untitled.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
               "title": "Untitled"
@@ -220,7 +220,7 @@
             }
           },
           {
-            "id": "906645e153845840",
+            "id": "b3ce443d925bcfbe",
             "type": "leaf",
             "state": {
               "type": "mermaid-toolbar-view",
@@ -256,7 +256,7 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "889d3289c5a2dfa2",
+  "active": "b3ce443d925bcfbe",
   "lastOpenFiles": [
     "Joy/Music.md",
     "Untitled 1.md",
