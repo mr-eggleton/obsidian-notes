@@ -22,4 +22,8 @@ Broker-->>Web Front End: control data
 
 But because of Pub Sub we can use other arrangements for demos etc.
 
-The kids write a Control System that starts subbed to a simulation with a visualisation that it subbed to the simulation too. runs at 60  timespeed*
+The kids write a Control System that starts subbed to a simulation with a visualisation that it subbed to the simulation too. runs at 60  times speed
+
+The fake tank can be attached to the outputs of one of the simulated tanks.
+
+A control system can then be subbed to the fake tank measurements and really take over.
