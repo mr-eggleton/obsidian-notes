@@ -1,12 +1,38 @@
-## Real Fish Tank System
+## Fish Tank System Definitions
+
+### MQTT
+[MQTT]([MQTT - The Standard for IoT Messaging](https://mqtt.org/)) is an OASIS standard messaging protocol for the Internet of Things (IoT). It is designed as an extremely lightweight publish/subscribe messaging transport that is ideal for connecting remote devices with a small code footprint and minimal network bandwidth. MQTT today is used in a wide variety of industries, such as automotive, manufacturing, telecommunications, oil and gas, etc.
+
+![MQTT Publish Subcribe Diagram](https://mqtt.org/assets/img/mqtt-publish-subscribe.png)
+### Fish Tank
+A tank with fish in which we are trying to monitor and control. But this could a real one, a demo one with robot fish or an entirely simulated one. All of these will be MQTT Clients
+
+### Measurements
+Measurement of temperature acidity etc sent from a Fish Tank
+
+### Control Data
+Should the heater be on or off etc.
+
+### Control System 
+And MQTT Client that subscribes to the measurement and control data of a fish tank and decides what the control data should be and changes it,
+### Display 
+
+An MQT
+
+### historical data
+### range data
+Web Front End
+Data Store
+
+
 
 ```mermaid
 sequenceDiagram
-Real Fish Tank -->> Broker: measurements
+Fish Tank -->> Broker: measurements
 Broker-->>Control System : measurements
 Broker-->>Display : measurements
 Control System-->>Broker : control data
-Broker-->>Real Fish Tank: control data
+Broker-->>Fish Tank: control data
 Broker-->>Web Front End: control data
 Broker-->>Data Store: measurements
 Broker-->>Display: control data
@@ -18,7 +44,7 @@ Web Front End-->>Broker: range data change
 Broker-->>Web Front End: range data
 Broker-->>Control System : range data
 Control System-->>Broker : control data
-Broker-->>Real Fish Tank: control data
+Broker-->>Fish Tank: control data
 Broker-->>Web Front End: control data
 Broker-->>Display: control data
 ```
