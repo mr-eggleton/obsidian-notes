@@ -43,7 +43,7 @@
               "state": {
                 "file": "Projects - Demo Project/Ideas around MQTT.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "Ideas around MQTT"
