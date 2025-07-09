@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects - Demo Project/Ideas around MQTT.md",
+                "file": "Projects - Demo Project/3D printer to camera rig.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Ideas around MQTT"
+              "title": "3D printer to camera rig"
             }
           },
           {
@@ -220,7 +220,7 @@
             }
           },
           {
-            "id": "cbb491268c342a28",
+            "id": "39387687129cb08a",
             "type": "leaf",
             "state": {
               "type": "mermaid-toolbar-view",
@@ -234,8 +234,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 356.5,
-    "collapsed": true
+    "width": 356.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -257,10 +256,11 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "889d3289c5a2dfa2",
+  "active": "39387687129cb08a",
   "lastOpenFiles": [
-    "CIISec CyberEPQ/Markdown Planning Techniques 1.md",
     "Projects - Demo Project/Ideas around MQTT.md",
+    "Projects - Demo Project/3D printer to camera rig.md",
+    "CIISec CyberEPQ/Markdown Planning Techniques 1.md",
     "Untitled.md",
     "Joy/Music.md",
     "Untitled 1.md",
@@ -294,7 +294,6 @@
     "Markwhen/test.mw",
     "Markwhen",
     "CIISec CyberEPQ/Markdown Planning Techniques.md",
-    "CIISec Live 2024/Ideas.md",
     "PEP-8 Styleguide",
     "Clippings",
     "Research/Templates",
