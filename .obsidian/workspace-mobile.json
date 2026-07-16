@@ -11,10 +11,14 @@
             "id": "f2b07f2288c948e6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Testing.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Testing"
             }
           }
         ]
@@ -129,22 +133,13 @@
           "icon": "lucide-list",
           "title": "Outline"
         }
-      },
-      {
-        "id": "983526f46a9646d5",
-        "type": "leaf",
-        "state": {
-          "type": "git-view",
-          "state": {},
-          "icon": "git-pull-request",
-          "title": "Source Control"
-        }
       }
     ],
-    "currentTab": 3
+    "currentTab": 2
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -152,7 +147,14 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-kanban:Create new board": false
+      "obsidian-importer:Open Importer": false,
+      "templater-obsidian:Templater": false,
+      "timelines-revamped:Insert Timeline Event": false,
+      "timelines-revamped:Insert Timeline Event (Frontmatter)": false,
+      "obsidian-projects:Open projects": false,
+      "obsidian-book-search-plugin:Create new book note": false,
+      "smart-gantt:Smart Gantt": false,
+      "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
   "active": "f2b07f2288c948e6",
