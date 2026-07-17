@@ -11,10 +11,14 @@
             "id": "d33359ea52c348c8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "New phone test.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "New phone test"
             }
           }
         ]
@@ -155,6 +159,7 @@
   },
   "active": "d33359ea52c348c8",
   "lastOpenFiles": [
+    "New phone test.md",
     "Testing.md",
     "CIISec CyberEPQ/Markdown Planning Techniques.md",
     "experiments/Mermaid Diagrams.md"
