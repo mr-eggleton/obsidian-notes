@@ -20,6 +20,8 @@ mindmap
 ```
 
 
+---
+
 ```mermaid
 
 gantt
@@ -39,6 +41,7 @@ gantt
     another task      : 24d
 ```
 
+---
 
 
 ```mermaid
@@ -51,6 +54,8 @@ pie title Pets adopted by volunteers
 
     "Rats" : 15
 ```
+
+---
 
 
 ```mermaid
@@ -68,6 +73,8 @@ flowchart TD
     C -->|Three| F[fa:fa-car Car]
 ```
 
+
+---
 #### sequence
 
 
